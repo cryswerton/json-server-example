@@ -1,0 +1,9 @@
+commands used:
+
+npm init -y
+
+npm install --save json-server
+
+json-server --watch db.json
+
+npm run json:server
